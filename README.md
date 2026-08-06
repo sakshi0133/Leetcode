@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
 | [3110-score-of-a-string](https://github.com/sakshi0133/Leetcode/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/sakshi0133/Leetcode/tree/master/3136-valid-word) |
 ## Depth-First Search
 |  |
 | ------- |
