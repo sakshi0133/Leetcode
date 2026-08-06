@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sakshi0133/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sakshi0133/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/sakshi0133/Leetcode/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshi0133/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sakshi0133/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sakshi0133/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshi0133/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sakshi0133/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
