@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
