@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshi0133/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sakshi0133/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sakshi0133/Leetcode/tree/master/0344-reverse-string) |
 | [3110-score-of-a-string](https://github.com/sakshi0133/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/sakshi0133/Leetcode/tree/master/3136-valid-word) |
 ## Depth-First Search
