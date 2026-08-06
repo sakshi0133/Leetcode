@@ -4,5 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/sakshi0133/Leetcode/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
