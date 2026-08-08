@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sakshi0133/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sakshi0133/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sakshi0133/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sakshi0133/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sakshi0133/Leetcode/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshi0133/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshi0133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sakshi0133/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
