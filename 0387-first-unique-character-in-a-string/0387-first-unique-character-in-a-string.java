@@ -1,19 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int[] freq = new int[26];
-        
-        // Pass 1: Count frequency of each character
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']++;
+        int [] freq = new int[256];
+        char[] ch = s.toCharArray();
+        for(int i=0;i<ch.length;i++){
+            freq[ch[i]]++;
         }
-        
-        // Pass 2: Find the first character with a count of 1
-        for (int i = 0; i < s.length(); i++) {
-            if (freq[s.charAt(i) - 'a'] == 1) {
-                return i;
-            }
+        for(int i=0;i<ch.length;i++){
+            if(freq[ch[i]]==1) return i;
         }
-        
         return -1;
     }
 }
