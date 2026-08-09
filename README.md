@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakshi0133/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sakshi0133/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sakshi0133/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sakshi0133/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/sakshi0133/Leetcode/tree/master/0414-third-maximum-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshi0133/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sakshi0133/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi0133/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sakshi0133/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sakshi0133/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshi0133/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshi0133/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
