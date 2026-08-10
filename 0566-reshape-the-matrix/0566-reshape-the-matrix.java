@@ -5,10 +5,10 @@ class Solution {
         if (m * n != r * c) {
             return mat;
         }
-        int[][] reshaped = new int[r][c];
+        int[][] res = new int[r][c];
         for (int i = 0; i < m * n; i++) {
-            reshaped[i / c][i % c] = mat[i / n][i % n];
+            res[i / c][i % c] = mat[i / n][i % n];
         }
-        return reshaped;
+        return res;
     }
 }
