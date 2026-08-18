@@ -158,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/sakshi0133/Leetcode/tree/master/2679-sum-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sakshi0133/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sakshi0133/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
