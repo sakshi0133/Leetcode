@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/sakshi0133/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sakshi0133/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2579-count-total-number-of-colored-cells](https://github.com/sakshi0133/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshi0133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
