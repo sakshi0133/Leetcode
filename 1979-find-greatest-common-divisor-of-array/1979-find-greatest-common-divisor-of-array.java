@@ -5,7 +5,7 @@ class Solution {
         int max = nums[nums.length-1];
         return gcd(min,max);
     }
-    public int gcd(int a,int b){
+    public static int gcd(int a,int b){
         if(b==0) return a;
         return gcd(b,a%b);
     }
