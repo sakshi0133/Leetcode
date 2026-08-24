@@ -5,12 +5,8 @@ class Solution {
         int max = nums[nums.length-1];
         return gcd(min,max);
     }
-    private int gcd(int a,int b){
-        while(b!=0){
-            int temp = b;
-            b = a%b;
-            a = temp;
-        }
-        return a;
+    public int gcd(int a,int b){
+        if(b==0) return a;
+        return gcd(b,a%b);
     }
 }
