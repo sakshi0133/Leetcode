@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sakshi0133/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sakshi0133/Leetcode/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshi0133/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/sakshi0133/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sakshi0133/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sakshi0133/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshi0133/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakshi0133/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshi0133/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sakshi0133/Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshi0133/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2679-sum-in-a-matrix](https://github.com/sakshi0133/Leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
