@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1534-count-good-triplets](https://github.com/sakshi0133/Leetcode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshi0133/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/sakshi0133/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshi0133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshi0133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/sakshi0133/Leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
