@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1395-count-number-of-teams](https://github.com/sakshi0133/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1534-count-good-triplets](https://github.com/sakshi0133/Leetcode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshi0133/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/sakshi0133/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sakshi0133/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi0133/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
+| [1395-count-number-of-teams](https://github.com/sakshi0133/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Minimax
 |  |
 | ------- |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/sakshi0133/Leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sakshi0133/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/sakshi0133/Leetcode/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/sakshi0133/Leetcode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
