@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sakshi0133/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/sakshi0133/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshi0133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/sakshi0133/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshi0133/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2679-sum-in-a-matrix](https://github.com/sakshi0133/Leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakshi0133/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sakshi0133/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sakshi0133/Leetcode/tree/master/0344-reverse-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/sakshi0133/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakshi0133/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshi0133/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshi0133/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/sakshi0133/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/sakshi0133/Leetcode/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/sakshi0133/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
