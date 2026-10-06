@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sakshi0133/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshi0133/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/sakshi0133/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sakshi0133/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sakshi0133/Leetcode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sakshi0133/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sakshi0133/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/sakshi0133/Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakshi0133/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshi0133/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
